@@ -66,7 +66,7 @@ eqreport mo sc ua pd ad, version(3L) table(table_2_3)
 - Help files for each command: `help eq5d3l`, `help eq5d5l`, 
   `help eqy3l`, `help eqxw`, `help eqxwr`, `help eqreport`
 - Full description with worked examples: 
-  [Stata Journal manuscript](docs/eq5dsuite_Stata_Journal_manuscript.docx)
+  [Stata guide](docs/eq5dsuite_Stata_guide.docx)
 
 ## Value sets repository
 
