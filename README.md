@@ -99,14 +99,6 @@ For cross-platform concerns please use the
 For general enquiries contact 
 [info@mathsinhealth.com](mailto:info@mathsinhealth.com).
 
-## Citation
-
-If you use eq5dsuite-stata in your research, please cite:
-
-> Ramos-Goñi JM, Ouellet M, Rivero-Arias O.
-> A suite of Stata commands to estimate utility values and analyse 
-> and report EQ-5D data. *The Stata Journal* (submitted).
-
 ## License
 
 This package is licensed under the MIT License.
